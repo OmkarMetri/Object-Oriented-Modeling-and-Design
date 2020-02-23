@@ -1,4 +1,4 @@
-# Object-Oriented-Modeling-and-Design
+# Object Oriented Modeling and Design
 ## Synopsis
 The purpose of the conference management system is that the system can easily review the process. The main process is the submission of paper by the candidate, reviewing the paper and sending the acknowledgement to the candidates.
 
